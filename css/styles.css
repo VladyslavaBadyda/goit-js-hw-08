@@ -1,3 +1,4 @@
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -7,9 +8,11 @@
     margin: 0 auto;
 }
 
+
 .gallery-item {
     flex-basis: calc((100% - 48px) / 3);
 }
+
 
 .gallery-image {
     width: 100%;
